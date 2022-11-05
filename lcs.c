@@ -60,7 +60,3 @@ return 0;
 
 
 
-Output
-Enter 1st sequence:ABCABA
-Enter 2nd sequence:BCBAA
-The Longest Common Subsequence is BCAA
