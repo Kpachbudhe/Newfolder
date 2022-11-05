@@ -70,39 +70,3 @@ printf("<-%d", j);
 
 
 
-OutputEnter no. of vertices :5
-Enter the adjecency matrix :
-3
-6
-7
-2
-8
-9
-4
-9
-4
-7
-1
-2
-7
-5
-4
-8
-3
-9
-7
-8
-3
-6
-9
-1
-2
-Enter the starting node :3
-Distance of Node 0 = 8
-Path = 0<-3
-Distance of Node 1 = 3
-Path = 1<-3
-Distance of Node 2 = 9
-Path = 2<-3
-Distance of Node 4 = 8
-Path = 4<-3
