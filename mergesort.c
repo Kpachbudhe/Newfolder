@@ -71,14 +71,3 @@ printf("\n");
 
 
 
-Output :
-Enter the range in an array : 5
-Enter the Element : 7
-2
-9
-1
-0
-List before sorting
-7 2 9 1 0 0
-List of sorting
-0 0 1 2 7 9
