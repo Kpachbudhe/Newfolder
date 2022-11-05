@@ -59,25 +59,3 @@ binary_search(list, mid + 1, hi, key);
 
 
 
-Output:
-Enter size of a list : 5
-Enter the Elements :
-3
-7
-2
-0
-7
-Enter key to search :
-3
-Key is found
-//***** second time
-Enter size of a list : 5
-Enter the Elements :
-2
-7
-5
-3
-8
-Enter key to search :
-0
-key not found
