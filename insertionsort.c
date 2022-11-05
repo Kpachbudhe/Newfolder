@@ -30,11 +30,3 @@ return 0;
 
 
 
-Output :
-Enter the Number of Element : 5
-Enter the Element into array : 6
-Enter the Element into array : 2
-Enter the Element into array : 8
-Enter the Element into array : 1
-Enter the Element into array : 0
-0 1 2 6 8
