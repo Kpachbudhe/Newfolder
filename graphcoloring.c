@@ -58,6 +58,3 @@ return 0;
 
 
 
-Output:
-Solution Exists : Following are the assigned colors
-1 2 3 2
