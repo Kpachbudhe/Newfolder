@@ -18,9 +18,3 @@ int main()
 }
 
 
-OUTPUT:
-
-Enter any two numbers:
-2
-6
-GCD of two numbers 2 and 6 is 2
