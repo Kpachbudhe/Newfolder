@@ -41,16 +41,3 @@ int main()
 
 
 
-OUTPUT:
-Enter number of items: 3
-Enter value & wieght of items:
-9
-8
-7
-6
-5
-4
-3
-2
-Enter size of knapsack: 2
-6421648
