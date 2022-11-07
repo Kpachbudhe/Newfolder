@@ -48,16 +48,3 @@ int main()
 }
 
 
-
-OUTPUT:
-
-Enter the no. of edges :2
-Enter the no. of vertices :4
-Enter the edges format v1 v2:2 7
-Enter the edges format v1 v2:0 9
-0000
-0000
-0000
-0000
-Enter the source:1
-1 ->
